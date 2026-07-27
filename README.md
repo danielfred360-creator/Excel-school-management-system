@@ -36,8 +36,8 @@ It helps schools automate student registration, payment tracking, attendance man
 
 ## 📷 Screenshots
 ### School Management Dashboard
-[School Management Dashboard] (<img width="1366" height="768" alt="Screenshot (48)" src="https://github.com/user-attachments/assets/8f3fcbbd-8c10-4012-a82f-f384aaef949a" />
-) 
+ <img width="1366" height="768" alt="Screenshot (48)" src="https://github.com/user-attachments/assets/8f3fcbbd-8c10-4012-a82f-f384aaef949a" />
+
 
 ### Student Registration Form
 [Student Registration Form] (<img width="1366" height="768" alt="Screenshot (47)" src="https://github.com/user-attachments/assets/e09af4cf-e17f-43d8-8d5e-fa151b9aa6ff" />)
